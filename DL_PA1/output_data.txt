@@ -1,0 +1,20 @@
+output
+Triangle[0] = 6.000000
+Triangle[1] = 4.000000
+Triangle[2] = 1.000000
+Triangle[3] = 2.000000
+Triangle[4] = 7.500000
+Triangle[5] = 2.500000
+Triangle[6] = 1.500000
+Triangle[7] = 7.500000
+Triangle[8] = 1.000000
+Triangle[9] = 2.000000
+Average of Area : 3.5
+Standard Deviation of Area : 2.592724864350674
+
+Frequency Distribution of Area
+0~2 : 3
+2~4 : 3
+4~6 : 1
+6~8 : 3
+8~10 : 0

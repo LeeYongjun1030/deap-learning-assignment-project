@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PA2_2015_19595_LEE_YONGJUN_DeapLearning", "PA2_2015_19595_LEE_YONGJUN_DeapLearning.pyproj", "{E6108A3B-412C-4256-8C16-68F847F254A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6108A3B-412C-4256-8C16-68F847F254A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6108A3B-412C-4256-8C16-68F847F254A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCB3003E-47B6-4E98-9EE3-C48AFDF47AEE}
+	EndGlobalSection
+EndGlobal
